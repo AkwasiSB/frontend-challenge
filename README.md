@@ -23,7 +23,7 @@ Please fork the repository to begin the task. [Submission guidelines](#what-we-a
    - improve the overall design of the homepage
    - make the website SEO friendly
    
-**If you prefer, you are welcome to use your own/preferred front-end framework (e.g. React)**, to ping our included backend service. You are also welcome to **make any changes to the codebase that you would like to, as long as it is still functional.** Please remember that this is meant to take up to **3 hours in total**, and is merely an exercise, so we are not expecting the entire moon, just holistic improvements! 😬 😅
+**If you prefer, you are welcome to use your own/preferred front-end framework (e.g. Vue)**, to ping our included backend service. You are also welcome to **make any changes to the codebase that you would like to, as long as it is still functional.** Please remember that this is meant to take up to **3 hours in total**, and is merely an exercise, so we are not expecting the entire moon, just holistic improvements! 😬 😅
 
 2] Then, analytics design: create a markdown file describing what **types of user behaviour** you would like to capture on this page for an analytical framework (e.g. [Heap](https://docs.heap.io/docs), [Amplitude](https://developers.amplitude.com/docs) or [Mixpanel](https://developer.mixpanel.com/docs)), and **why**.
 
@@ -54,7 +54,7 @@ For other OSes, the installation tools are in the links for `nvm` and `yarn` abo
    3. `npm install`
    4. Run `npm start`
 
-Once you are able to run the app following the steps [above](#quickstart-dev), it'll render the view on `http://localhost:8080/` like this: ![news-app](news-app.png)
+Once you are able to run the app following the steps [above](#quickstart-dev), it'll render the view on `http://localhost:4000/` like this: ![news-app](news-app.png)
 Your backend service will be running on `http://localhost:3000/` should look like this:
 ![news-service](news-service.png)
 
