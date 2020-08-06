@@ -1,0 +1,134 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Activist leader beats 20-year Democratic veteran",
+      "description": "Cori Bush, a racial justice activist who was once homeless, wins Missouri's Democratic primary.",
+      "url": "http://www.bbc.co.uk/news/election-us-2020-53667864",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/283E/production/_113820301_gettyimages-1227915604.jpg",
+      "publishedAt": "2020-08-05T15:46:32Z",
+      "content": "Image copyrightGetty Images\r\nCori Bush, a racial justice activist who was once homeless, has ousted a 10-term political veteran in Missouri's Democratic primary election.\r\nShe defeated Congressman Wi… [+3326 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Beirut explosion: What is ammonium nitrate and how dangerous is it?",
+      "description": "Ammonium nitrate has been blamed for a deadly explosion in Beirut, but what exactly is the chemical?",
+      "url": "http://www.bbc.co.uk/news/explainers-53664064",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6B1D/production/_113812472_mediaitem113812468.jpg",
+      "publishedAt": "2020-08-05T14:37:19.9029404Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Musk's 'Mars ship' prototype aces test flight",
+      "description": "A prototype of the engine for SpaceX's next-generation Starship vehicle has made a 150m test \"hop\".",
+      "url": "http://www.bbc.co.uk/news/science-environment-53659702",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11937/production/_113819917_screenshot2020-08-05at12.37.51.png",
+      "publishedAt": "2020-08-05T13:29:05Z",
+      "content": "Image copyrightSpaceXImage caption\r\n The test flight lasted less than a minute\r\nA prototype of SpaceX's next-generation Starship vehicle has successfully flown to an altitude of 150m (500ft).\r\nThe un… [+1848 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Meghan allowed to keep friends' identities secret",
+      "description": "A judge rules the identities of the five, who spoke to a US magazine about her, should be protected.",
+      "url": "http://www.bbc.co.uk/news/uk-53665180",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0367/production/_113817800_hi062772813.jpg",
+      "publishedAt": "2020-08-05T12:13:04Z",
+      "content": "Image copyrightPA Media\r\nThe Duchess of Sussex has been allowed to keep the names of five friends who gave an interview about her secret in her case against the Mail on Sunday.\r\nMr Justice Warby said… [+2073 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Stars back Ellen amid 'toxic workplace' claims",
+      "description": "Kevin Hart and Katy Perry come to the TV host's defence, but her former DJ recalls \"toxicity\" on set.",
+      "url": "http://www.bbc.co.uk/news/entertainment-arts-53662700",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7699/production/_113816303_hart1_getty.jpg",
+      "publishedAt": "2020-08-05T10:37:06Z",
+      "content": "Image copyrightGetty ImagesImage caption\r\n Kevin Hart and Ellen DeGeneres with their partners, Eniko Parrish and Portia de Rossi, in 2017\r\nComedian Kevin Hart, singer Katy Perry and other stars have … [+3259 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "India PM lays temple foundation amid Covid surge",
+      "description": "Building of the Ayodhya temple will begin after a decades-long legal fight between Hindus and Muslims.",
+      "url": "http://www.bbc.co.uk/news/world-asia-india-53577942",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7243/production/_113815292_whatsappimage2020-08-05at10.30.44am.jpg",
+      "publishedAt": "2020-08-05T09:22:57Z",
+      "content": "Image copyrightAnkit SrinivasImage caption\r\n Mr Modi spoke after inaugurating the construction of the temple\r\nIndian PM Narendra Modi has laid the foundation stone for a Hindu temple in the northern … [+5863 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Coronavirus updates: UK 'underestimated threat from Europe travellers'",
+      "description": "Quarantine advice initially focused too much on travellers from Asia, says a group of MPs.",
+      "url": "http://www.bbc.co.uk/news/live/world-53661262",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/4.1.3/bbc_news_logo.png",
+      "publishedAt": "2020-08-05T06:52:25.0507839Z",
+      "content": "The UKs coronavirus outbreak could have been curbed more effectively had quarantine restrictions on arrivals been imposed at an earlier stage, MPs have said. \r\nThe Home Affairs committee said it was … [+864 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Deadly cyclone Isaias reaches Canada",
+      "description": "Millions of people were left without power in the US as the storm swept through the eastern seaboard.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-53645297",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p08mry7z.jpg",
+      "publishedAt": "2020-08-05T06:25:17Z",
+      "content": "Media caption'The Lord spared us for another day'\r\nAt least five people have been killed as Tropical Storm Isaias swept through US states on the Atlantic Coast. \r\nTwo died when a tornado struck a mob… [+2872 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Lebanon mourns after massive Beirut blast",
+      "description": "At least 78 people died and more than 4,000 were injured after a huge explosion at the city's port.",
+      "url": "http://www.bbc.co.uk/news/world-middle-east-53659282",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p08mrp4z.jpg",
+      "publishedAt": "2020-08-05T01:43:59Z",
+      "content": "Media caption\"Now I'm shaking, all the way from up to down\" - Eyewitnesses describe the power of the explosion\r\nLebanon is in mourning after a huge explosion in the capital Beirut killed at least 78 … [+6693 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Uighur model sends rare video from Chinese detention",
+      "description": "Seven months ago Merdan Ghappar disappeared in Xinjiang. Then his family started getting messages.",
+      "url": "http://www.bbc.co.uk/news/world-asia-china-53650246",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17B92/production/_113807179_uighurstill1.jpg",
+      "publishedAt": "2020-08-04T21:29:13Z",
+      "content": "Image caption\r\n An image sent by Merdan Ghappar appears to show him handcuffed in a cell\r\nMerdan Ghappar was used to posing for the camera. \r\nAs a model for the massive Chinese online retailer Taobao… [+16816 chars]"
+    }
+  ]
+}

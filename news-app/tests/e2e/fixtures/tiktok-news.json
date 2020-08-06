@@ -1,0 +1,43 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.com"
+      },
+      "author": "Joel Kahn",
+      "title": "Will This TikTok Cereal Box Hack Solve All Your Breakfast Problems?",
+      "description": "A viral hack has been circulating on TikTok for a while now. In the countless videos of the #CerealBoxChallenge (does TikTok use hashtags? I am old...) people show how, instead of using the tabs built in to a cereal box, you can fold down the sides and top to…",
+      "url": "https://lifehacker.com/will-this-tiktok-cereal-box-hack-solve-all-your-breakfa-1844544160",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/o0xzkljlpnjtmjxoeoap.jpg",
+      "publishedAt": "2020-07-29T17:00:00Z",
+      "content": "A viral hack has been circulating on TikTok for a while now. In the countless videos of the #CerealBoxChallenge (does TikTok use hashtags? I am old...) people show how, instead of using the tabs buil… [+924 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Karissa Bell",
+      "title": "Trump admin will reportedly force ByteDance to sell TikTok",
+      "description": "It looks like Donald Trump is about to make good on his promise to go after TikTok. The Trump administration will soon force ByteDance, the Chinese company that owns TikTok, to sell the app to a U.S. owner, Bloomberg reports.And there’s already one tech giant…",
+      "url": "https://www.engadget.com/trump-administration-will-force-sale-tiktok-183730178.html",
+      "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-07%2F217016e0-c859-11ea-befb-d829f87a3c1e&client=amp-blogside-v2&signature=cbce8a0c57affc8cbe4d8800603faf566ef3efdc",
+      "publishedAt": "2020-07-31T18:37:30Z",
+      "content": "It looks like Donald Trump is about to make good on his promise to go after TikTok. The Trump administration will soon force ByteDance, the Chinese company that owns TikTok, to sell the app to a U.S.… [+290 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Daniel Cooper",
+      "title": "TikTok CEO says the app has ‘become the target’ but is ‘not the enemy",
+      "description": "It’s fair to say that TikTok is facing battles on several fronts, with the White House and Facebook both parking tanks on its lawn. The US is reportedly preparing to ban the Chinese-owned company as part of its broader crackdown on Chinese technology. And Fac…",
+      "url": "https://www.engadget.com/tiktok-antitrust-ceo-open-letter-141504356.html",
+      "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F4c24e490-9949-11ea-bfff-d8c11acb1d19&client=amp-blogside-v2&signature=0ade9e38983ec7f22ac5a04859f77ea10522532b",
+      "publishedAt": "2020-07-29T14:15:04Z",
+      "content": "“We have received even more scrutiny due to the company’s Chinese origins,” he wrote, adding that it’s something TikTok accepts, and even embraces. “With our success comes responsibility and accounta… [+1464 chars]"
+    }
+  ]
+}
