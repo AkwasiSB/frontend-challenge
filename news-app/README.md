@@ -17,10 +17,10 @@ $ npm build
 
 ### Run your end-to-end tests
 ```sh
-$ npm test:e2e
+$ npm e2e:test
 ```
 
 ### Run your unit tests
 ```sh
-$ npm test:unit
+$ npm unit:test
 ```
