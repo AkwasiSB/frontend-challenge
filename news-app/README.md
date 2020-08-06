@@ -1,39 +1,26 @@
 # news-app
 
 ## Project setup
-```
-yarn install
+```sh
+$ npm install
 ```
 
 ### Compiles and hot-reloads for development
-```
-yarn run serve
+```sh
+$ npm start
 ```
 
 ### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
+```sh
+$ npm build
 ```
 
 ### Run your end-to-end tests
-```
-yarn run test:e2e
+```sh
+$ npm test:e2e
 ```
 
 ### Run your unit tests
+```sh
+$ npm test:unit
 ```
-yarn run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

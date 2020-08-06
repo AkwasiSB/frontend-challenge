@@ -45,11 +45,11 @@ For other OSes, the installation tools are in the links for `nvm` and `yarn` abo
    5. Run `sls offline start --stage dev`
 2. To run the front-end app - written in VueJS:
    1. `cd news-app`
-   2. In `news-app` - `.env`:
+   2. In `news-app` - `.env.development`:
         ```
         NODE_ENV=dev
-        VUE_APP_SERVICE_URL=http://localhost:3000/
-        VUE_APP_SERVICE_KEY={{ TBA API key for serverless when closer to deploy }}
+        REACT_APP_SERVICE_URL=http://localhost:3000/
+        REACT_APP_SERVICE_KEY={{ TBA API key for serverless when closer to deploy }}
         ```
    3. `yarn install`
    4. Run `yarn serve`
