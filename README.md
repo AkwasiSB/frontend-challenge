@@ -4,7 +4,7 @@ This challenge includes coding, an analytics design question, and a database eva
 
 Whilst we are looking for a front-end focused developer, as a small team we are realistically sharing the load on all applications. So the final task is meant to assess how you think about data-intensive systems - it does not use any specific database technology.
 
-For the coding & analytics design question, we have a basic News Reader: A pair of applications that serve up a front-end, written in [Vue.js](https://vuejs.org/), and a backend written in Node.js using the [Serverless Framework](https://serverless.com/). They allow a reader to see the latest UK news and search for articles by keywords.
+For the coding & analytics design question, we have a basic News Reader: A pair of applications that serve up a front-end, written in [React.js](https://reactjs.org/), and a backend written in Node.js using the [Serverless Framework](https://serverless.com/). They allow a reader to see the latest UK news and search for articles by keywords.
 
 For the database evaluation task, there are 3 questions are in the included [DB-Task.md](DB-Task.md) file, and they are centred on an event registration system.
 
@@ -19,7 +19,7 @@ Please fork the repository to begin the task. [Submission guidelines](#what-we-a
 2. add at least 1 or 2 tests to the front-end web app
 3. implement web accessibility on components
 4. *(optional tasks)* If you find that you have time and would like to make the front-end app even nicer, you could tackle one of the following tasks:
-   - improve the functionality & design of the Article component (`src/components/Article.vue`) so that it is more intuitive to a reader
+   - improve the functionality & design of the Article component (`src/components/Article.js`) so that it is more intuitive to a reader
    - improve the overall design of the homepage
    - make the website SEO friendly
    
@@ -43,7 +43,7 @@ For other OSes, the installation tools are in the links for `nvm` and `yarn` abo
    3. set up your API key in the `.env` file `NEWS_API_KEY={{ your api key }}`
    4. `yarn install`
    5. Run `sls offline start --stage dev`
-2. To run the front-end app - written in VueJS:
+2. To run the front-end app - written in ReactJS:
    1. `cd news-app`
    2. In `news-app` - `.env.development`:
         ```
@@ -51,8 +51,8 @@ For other OSes, the installation tools are in the links for `nvm` and `yarn` abo
         REACT_APP_SERVICE_URL=http://localhost:3000/
         REACT_APP_SERVICE_KEY={{ TBA API key for serverless when closer to deploy }}
         ```
-   3. `yarn install`
-   4. Run `yarn serve`
+   3. `npm install`
+   4. Run `npm start`
 
 Once you are able to run the app following the steps [above](#quickstart-dev), it'll render the view on `http://localhost:8080/` like this: ![news-app](news-app.png)
 Your backend service will be running on `http://localhost:3000/` should look like this:
@@ -60,13 +60,13 @@ Your backend service will be running on `http://localhost:3000/` should look lik
 
 ###  Main App Functionality & File Structure
 
-The key dependencies used are the [`news-api` module](https://www.npmjs.com/package/newsapi) which allows us to fetch news from [NewsAPI.org](https://newsapi.org/) on our backend, [`axios`](https://www.npmjs.com/package/axios) & [Vuetify](https://vuetifyjs.com/en/) on front-end for fetching data and components respectively.
+The key dependencies used are the [`news-api` module](https://www.npmjs.com/package/newsapi) which allows us to fetch news from [NewsAPI.org](https://newsapi.org/) on our backend.
 
 The main backend endpoint is the `/articles` endpoint, which can return the [top headlines](https://newsapi.org/docs/endpoints/top-headlines) or results based on a query of ["everything"](https://newsapi.org/docs/endpoints/everything). It is a POST request that takes the type (`headlines` or `search`), along with the query body (uses `country` for headlines, and `q` for the search).
 
 The front-end pings the endpoint, loads the data accordingly and renders it for the reader on the homepage.
 
-In `news-app` front-end: `App.vue` renders different views (in `src/views`) through the router, and pulls in data from the backend endpoint to load each into its own article component (`src/components/Article.vue`). The main view is `src/views/Home.vue`
+In `news-app` front-end: `App.vue` renders different views (in `src/views`) through the router, and pulls in data from the backend endpoint to load each into its own article component (`src/components/Article.js`). The main view is `src/views/Home.js`
 
 In `news-service` backend: 
 - `serverless.yml` defines how the endpoints will be declared for the provider, as well as doing some basic request validation / handling. Written in the context of an AWS Lambda service, as that can be easily deployed, basically free and is still scalable
@@ -85,5 +85,5 @@ These are the guidelines on what we are looking for in our submissions:
 - Any tests that are written make sense according to how a user might behave on the page
 - The styling of code is consistent and technical choices are well-commnunicated
 - As a news reader, it is clear how I should can use the page to find news that I am looking for
-- If technologies used are changed (e.g. using React instead of Vue), a set of instructions on how to run the app are updated in the README.
+- If technologies used are changed (e.g. using Vue instead of React), a set of instructions on how to run the app are updated in the README.
 - Any changes to file structure are also communicated in the README
